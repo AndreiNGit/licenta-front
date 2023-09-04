@@ -1,0 +1,6 @@
+.itemList {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px; /* spațiere între articole */
+  }
+  

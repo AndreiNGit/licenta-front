@@ -1,0 +1,9 @@
+span.buyOrder {
+    color: red;
+    font-weight: bold;
+}
+
+span.sellOrder {
+    color: green;
+    font-weight: bold;
+}

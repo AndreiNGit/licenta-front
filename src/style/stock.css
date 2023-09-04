@@ -1,0 +1,23 @@
+
+.predictionDiv {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.chart {
+    width: 50%;
+    height: 50%;
+}
+
+.prediction {
+    width: 50%;
+    height: 50%;
+}
+
+.predictionTitle {
+    text-align: center;
+    margin-top: 50px;
+}

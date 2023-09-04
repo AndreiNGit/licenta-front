@@ -1,0 +1,30 @@
+.fundamentals {
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.title h2 {
+    margin-bottom: 30px;
+}
+
+.data {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly
+}
+
+.general .divTitle, .fundamental .divTitle{
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.fundamental p, .general p {
+    margin-bottom: 30px;
+}
+
